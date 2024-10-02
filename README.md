@@ -1,2 +1,2 @@
-# cmd
-Shuri CMD - Extended commands for laravel
+# Shurirh Laravel CMD
+Shurirh Laravel CMD - Extended Commands for Laravel
